@@ -8,4 +8,4 @@ class Solution(object):
             else: start = mid + 1
         return start
 
-# Memory - 12.72 - 11.17% - Надо поправить 
+# Memory - 12.72 - 11.17% - Надо лучше разобраться с бинарным поиском
